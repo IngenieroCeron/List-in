@@ -1,0 +1,33 @@
+{
+  "identifier" : "0E815738",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "45",
+      "familyShareable" : false,
+      "internalID" : "CD75EED4",
+      "localizations" : [
+        {
+          "description" : "Acceso completo y sin anuncios",
+          "displayName" : "Premium Listin",
+          "locale" : "es_MX"
+        }
+      ],
+      "productID" : "com.eduardoceron.CoreDataIntroRoster.PremiumListin",
+      "referenceName" : "Premium Listin",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}
